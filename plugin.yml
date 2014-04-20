@@ -1,0 +1,7 @@
+name: EasterHunt
+main: me.libraryaddict.easter.EasterHunt
+depend: [RankManager, ProtocolLib, LibsDisguises, HubReturn]
+version: 1.0
+commands:
+  found:
+  reseteggs:
